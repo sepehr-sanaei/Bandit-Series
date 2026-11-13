@@ -5,7 +5,7 @@ This is the first level of the Bandit series and is aimed at absolute beginners.
 Connect to the game server over SSH and obtain the password for Level 1.
 
 ## Step 1: Connect via SSH
-We need to connect via SSH "bandit.labs.overthewire.org" on port "2220" , with user "bandit0" and the password "bandit0".
+We need to connect via SSH `bandit.labs.overthewire.org` on port `2220` , with user `bandit0` and the password `bandit0`.
 We can do this using:
 ```bash
 ssh bandit.labs.overthewire.org -l bandit0 -p 2220
