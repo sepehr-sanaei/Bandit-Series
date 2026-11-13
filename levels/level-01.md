@@ -22,6 +22,7 @@ ls
 
 ## Step 3: Read the file
 If we want to read the contents of the file using `cat -` we see nothing. The reason for this is that for cat, a lone `-` means “read what I type on the keyboard”, not “open a file named `-`”. So `cat -` doesn't open the file. It waits for your input.
+
 ![Try to read the contents of -](screenshots/level1-3.png)
 
 So if we want to tell Linux that `-` is a file we should use `./-`. Using:
