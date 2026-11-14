@@ -11,6 +11,8 @@ Log in as `bandit2` with the password we found in Level 1:
 ssh bandit.labs.overthewire.org -l bandit2 -p 2220
 ```
 
+![SSH login to bandit2](screenshots/level2-1.png)
+
 ## Step 2: List the files
 We use `ls` to list the files in the directory:
 
