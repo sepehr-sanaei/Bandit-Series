@@ -24,7 +24,7 @@ Passwords are intentionally not included. Each write-up covers the goal, the com
 Bandit-Series/
 ├── README.md
 ├── levels/
-│───├ screenshots/
+│───├── screenshots/
 │   ├── level-00.md
 │   ├── level-01.md
 │   └── level-02.md
